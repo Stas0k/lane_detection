@@ -1,4 +1,4 @@
-# Real Time Lane Detection and Tracking - Comparative Study
+# Image Processing - Lane Detection
 
 # Assignee Info
 
