@@ -60,7 +60,7 @@ In our project we examine 2 ways for lane detection and tracking utilizing tradi
 | ``images``                      | directory contains images for README documentation and intermediate video frames/images |
 |                                 |                                                                                         |
 
-# 1. Apporach 1 - Hough Transform
+# 1. Hough Transform
 
 ## 1.1. Overview
 
